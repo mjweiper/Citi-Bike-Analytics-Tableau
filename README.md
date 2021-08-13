@@ -1,6 +1,6 @@
 # Tableau Homework - Citi Bike Analytics
 
-### *URL TO TABLEAU PUBLIC WORKBOOK*
+### *URL TO MY COMPLETED TABLEAU PUBLIC WORKBOOK*
 https://public.tableau.com/app/profile/matt.weiper/viz/citibikeassignment/CitiBikeAnalysis
 
 
