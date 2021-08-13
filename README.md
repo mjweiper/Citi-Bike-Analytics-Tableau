@@ -1,16 +1,8 @@
 # Tableau Homework - Citi Bike Analytics
 
-### Before You Begin
+### URL TO TABLEAU PUBLIC WORKBOOK
+https://public.tableau.com/app/profile/matt.weiper/viz/citibikeassignment/CitiBikeAnalysis
 
-* This assignment will be saved to your Tableau Public account rather than GitHub. 
-
-* If you haven't already, be sure to create a Tableau Public account [here](https://public.tableau.com/s/).
-
-* The free tier of Tableau only lets you save to their public server. This means that each time you save your file it will be uploaded to your Tableau Public profile. 
-
-* You are able to load and continue working on the same workbook.
-
-* When you are finished with your assignment, you will turn in the URL to your Tableau Public workbook along with any additional files used for your analysis. 
 
 ## Background
 
@@ -144,10 +136,10 @@ Your final product will be assessed on the following metrics:
 
 * Good luck!
 
-## Rubric
-
-[Unit 20 Rubric - Tableau Homework - Citi Bike Analytics](https://docs.google.com/document/d/135gKIRxE8XB9XGmXcGORGpmJAeGdh1qz6ogh8na6P-o/edit?usp=sharing)
 
 - - -
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+Contact -
+mattweiper@gmail.com
