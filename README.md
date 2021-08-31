@@ -1,9 +1,5 @@
 # Tableau - Citi Bike Analytics
 
-### *URL TO MY COMPLETED TABLEAU PUBLIC WORKBOOK*
-https://public.tableau.com/app/profile/matt.weiper/viz/citibikeassignment/CitiBikeAnalysis
-
-
 The purpose of this assignment is to aggregate data found in the Citi Bike Trip History Logs, analyze that data, and find two unexpected phenomena. The questions I wanted to take a look at were if Co-Vid 19 had affected the popularity of the bike share program and diving into what specific demographic primarily used the bikes.
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
@@ -38,32 +34,10 @@ I pulled this data from the [Citi Bike Data](https://www.citibikenyc.com/system-
 * This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing. 
 
 
-## Submission 
 
-Your final submission should include:
 
-* A link to your Tableau Public workbook that includes: 
-  * 4-10 Total "Phenomenon" Visualizations 
-  * 2 Dashboards
-  * 1 City Official Map
-  * 1 Story 
-* A text or markdown file with your analysis on the phenomenons you uncovered from the data.
-
-## Sharing Your Work
-
-* In order to share your work, we are asking that you will save your workbook as a .twbx file.
-
-* To save your workbook as a .twbx file, you will just need to go to `File`, then `Save to Tableau Public...`.
-
-* Please create an account if you do not have one already.
-
-* Once you have created an account and published your work to Tableau Public, go to the visualization in Tableau Public and find the `Download` button at the bottom right hand corner.
-
-* Please download the Tableau Public file to your computer and submit it.
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+### *URL TO MY COMPLETED TABLEAU PUBLIC WORKBOOK*
+https://public.tableau.com/app/profile/matt.weiper/viz/citibikeassignment/CitiBikeAnalysis
 
 Contact -
 mattweiper@gmail.com
