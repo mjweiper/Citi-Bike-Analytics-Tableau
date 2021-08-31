@@ -8,7 +8,7 @@ I pulled this data from the [Citi Bike Data](https://www.citibikenyc.com/system-
 
 ## What was the comparison between July 2019 and 2020?
 
-
+![Citi-Bikes](Images/citibike1.PNG)
 
 
 
