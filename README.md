@@ -6,7 +6,7 @@ The purpose of this assignment is to aggregate data found in the Citi Bike Trip 
 
 I pulled this data from the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage and used 2 data sets (July 2019 and July 2020) to take a closer look!
 
-##What was the comparison between July 2019 and 2020?
+## What was the comparison between July 2019 and 2020?
 
 
 
