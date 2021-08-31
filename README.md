@@ -4,11 +4,11 @@
 https://public.tableau.com/app/profile/matt.weiper/viz/citibikeassignment/CitiBikeAnalysis
 
 
-**The purpose of this assignment is to aggregate data found in the Citi Bike Trip History Logs, analyze that data, and find two unexpected phenomena. The questions I wanted to take a look at were if Co-Vid 19 had affected the popularity of the bike share program and diving into what specific demographic primarily used the bikes.
+The purpose of this assignment is to aggregate data found in the Citi Bike Trip History Logs, analyze that data, and find two unexpected phenomena. The questions I wanted to take a look at were if Co-Vid 19 had affected the popularity of the bike share program and diving into what specific demographic primarily used the bikes.
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
-**I pulled this data from the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage. I used 2 data sets (July 2019 and July 2020) to take a closer look!
+I pulled this data from the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage. I used 2 data sets (July 2019 and July 2020) to take a closer look!
 
 ##What was the comparison between July 2019 and 2020?
 
