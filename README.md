@@ -1,6 +1,6 @@
 # Tableau - Citi Bike Analytics
 
-The purpose of this assignment is to aggregate data found in the Citi Bike Trip History Logs, analyze that data, and find two unexpected phenomena. The questions I wanted to take a look at were if Co-Vid 19 had affected the popularity of the bike share program and diving into what specific demographic primarily used the bikes.
+The purpose of this assignment was to aggregate data found in the Citi Bike Trip History Logs, analyze that data, and find two unexpected phenomena. The questions I wanted to take a look at were: If Co-Vid 19 had affected the popularity of the bike share program and what specific demographic primarily used the bikes.
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
@@ -10,7 +10,7 @@ I pulled this data from the [Citi Bike Data](https://www.citibikenyc.com/system-
 
 ![Citi-Bikes](Images/citibike1.PNG)
 
-
+Creating multiple sheets in Tableau to make a virtual dashboard between the 2 years I discovered that the there were more trips in July 19, but way more time spent on bikes in July 20. 
 
 
 
