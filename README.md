@@ -34,7 +34,7 @@ After creating multiple dashboards via Tableau, I created a story with my findin
 
 ## Conclusion
 
-No strong link between Co-vid 19 and Citi Bike usage, however determined that it high probablity that working class are primary users and use to and from work, based on daily usage and age of users.  
+No strong link between Co-vid 19 and Citi Bike usage, however determined that it high probablity that working class are primary users, based on daily usage and age of users.  
 
 
 ### *URL TO MY COMPLETED TABLEAU PUBLIC WORKBOOK*
