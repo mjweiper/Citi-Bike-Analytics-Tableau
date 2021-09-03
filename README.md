@@ -40,5 +40,5 @@ No strong link between Co-vid 19 and Citi Bike usage, however determined that it
 ### *URL TO MY COMPLETED TABLEAU PUBLIC WORKBOOK*
 https://public.tableau.com/app/profile/matt.weiper/viz/citibikeassignment/CitiBikeAnalysis
 
-Contact -
+Contact
 mattweiper@gmail.com
