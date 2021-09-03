@@ -22,7 +22,13 @@ Creating multiple sheets in Tableau to make a virtual dashboard between the 2 ye
 ![Citi-Bikes](Images/2019.PNG)
 ![Citi-Bikes](Images/2020.PNG)
 
-See highs and lows on daily usage I determined that citi bike could be a primary mean of transportation for workers in New York City as the usage was significantly higher during the week compared to the weekend.
+Seeing highs and lows on daily usage, I determined that citi bike could be a primary mean of transportation for workers in New York City as the usage was significantly higher during the week compared to the weekend.
+
+In addition we took a closer look at station popularity and demographics of user to get a better understanding of who the primary users were, and what stations were the most popular (via mapping through mapbox)
+
+## Visualization
+
+After creating multiple dashboards via Tableau, I created a story with my findings. I have posted link below to view full story.
 
 
 
